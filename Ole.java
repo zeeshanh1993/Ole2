@@ -4,6 +4,7 @@ public class Ole {
         System.out.println("This is out first github class");
         System.out.println("This is 3rd commit");
         System.out.println("This is 4th commit");
+        System.out.println("This is the fifth commit in the program!");
 
     }
 }
