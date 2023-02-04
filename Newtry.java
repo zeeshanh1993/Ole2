@@ -1,7 +1,7 @@
 public class Newtry {
     public static void main(String[] args) {
         System.out.println("Hello there!");
-        int x = 8;
+        int x = 11;
         if (x % 2 == 0)
             System.out.println("Even number");
         else
